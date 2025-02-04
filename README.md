@@ -11,22 +11,22 @@ Return Status: Track the return of books, including the return date and related 
 Database Design
 The database is named library and consists of the following tables:
 
-1. Branch
+1. Branch :-
 Stores details about the branches of the library.
 
-2. Employee
+2. Employee :-
 Stores information about the employees working in the library.
 
-3. Books
+3. Books:-
 Stores information about the books available in the library.
 
- 4. Customer
+ 4. Customer :-
 Stores details about the customers who borrow books.
 
-5. IssueStatus
+5. IssueStatus :-
 Tracks the books issued to customers.
 
- 6. ReturnStatus
+ 6. ReturnStatus :-
 Tracks the return of books by customers.
 
 
